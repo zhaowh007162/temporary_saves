@@ -1,9 +1,9 @@
-# temporary_saves
-clues you find
-steps you tried
-all of this
-are all in my mind
-don't be shy
-i'm not lied
-so trust in me
-to discover the light
+# 临时仓库
+**临时文件，不定时更新和剔除**
+> 别人的东西，每个文件都会在发布后的一段时间后删除
+>以表达对原作者最大的尊重
+---
+**每个文件都有密码，密码有提示(只是怕自己忘了)，所有文件已加密**
+说实话，破解它没啥意义
+~~难不成破解是用来装福的？~~
+`理解为我自己的文件传输助手`
